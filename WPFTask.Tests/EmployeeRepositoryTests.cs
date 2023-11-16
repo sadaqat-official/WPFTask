@@ -11,7 +11,7 @@ namespace WPFTask.Tests
     {
 
         [Fact]
-        public async Task AddEmployeeAsync_Success2()
+        public async Task AddEmployeeAsync_Success()
         {
             // Arrange
             var expectedEmployee = new Employee
